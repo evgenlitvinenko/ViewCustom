@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ViewCustom_Example' do
+  pod 'ViewCustom', :path => '../'
+
+  target 'ViewCustom_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
