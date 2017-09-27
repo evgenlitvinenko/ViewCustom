@@ -1,0 +1,6 @@
+framework module ViewCustom {
+  umbrella header "ViewCustom-umbrella.h"
+
+  export *
+  module * { export * }
+}

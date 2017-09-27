@@ -1,0 +1,22 @@
+{
+  "name": "ViewCustom",
+  "version": "0.1.0",
+  "summary": "A short description of ViewCustom.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/workidev/ViewCustom",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "workidev": "ilitvinenko90@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/workidev/ViewCustom.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ViewCustom/Classes/**/*"
+}
